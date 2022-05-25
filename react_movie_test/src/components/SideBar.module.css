@@ -1,0 +1,9 @@
+.SideBar {
+  height: 100vh;
+  width: 50px;
+  background-color: #bb000e;
+}
+
+.sideBarItem {
+  color: #fff;
+}

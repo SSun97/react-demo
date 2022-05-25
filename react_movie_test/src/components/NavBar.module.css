@@ -1,0 +1,26 @@
+.container {
+  height: 100vh;
+}
+.text {
+  color: #fff;
+}
+.logout {
+  padding-left: 20px;
+  color: red;
+}
+.divRight {
+  margin-right: 40px;
+}
+.nav {
+  /* width: 100%;
+  height: ; */
+  left: 0;
+  right: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #0f0e0e;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
